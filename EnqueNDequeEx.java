@@ -49,8 +49,8 @@ public class EnqueNDequeEx {
 		enque(7);
 		int a=deque();
 		System.out.println("No dequed "+a);
-//		System.out.println(peek());
-//		System.out.println(search(6));
+		System.out.println(peek());
+		System.out.println(search(6));
 		display();
 		
 	}
